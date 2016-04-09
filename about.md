@@ -8,16 +8,5 @@ El FLISoL es el evento de difusión de [Software Libre](http://es.wikipedia.org/
 El FLISoL se realiza desde el año 2005 y desde el 2008 se adoptó su realización el 4to Sábado de abril de cada año. La entrada es gratuita y su principal objetivo es promover el uso del software libre, dando a conocer al público en general su filosofía, alcances, avances y desarrollo. 
 
 El evento es organizado por las diversas comunidades locales de Software Libre y se desarrolla simultáneamente con eventos en los que se instala, de manera gratuita y totalmente legal, software libre en las computadoras que llevan los asistentes. Además, en forma paralela, se ofrecen charlas, ponencias y talleres, sobre temáticas locales, nacionales y latinoamericanas en torno al Software Libre, en toda su gama de expresiones: artística, académica, empresarial y social.
-![SoftwareLibre](http://www.flisol.info/FLISOL2015?action=AttachFile&do=get&target=QueEsSoftwareLibre.png))
-![Emerald](img/Emerald01.png "Emerald")
-
-### Setup
-Emerald may be installed by simply downloading the .zip folder from the [repository on Github](https://github.com/KingFelix/emerald/archive/master.zip).
-
-After extracting the content from the folder into the selected directory, you can type ``jekyll serve`` from the terminal, than open your browser to ``0.0.0.0:4000/emerald/`` and you will find it there.
-
-Additionally it is possible to fork the repository and use Github Pages as hosting. By following this way it will be enough to change the ``baseurl`` value into the ``_config.yml`` file, with the directory name of your project (for example /blog) or simply with a "/" (slash) if you want install Emerald in the root. 
-
-Last but not least: the [Jekyll documentation](http://jekyllrb.com) is the best starting point!
-
-Enjoy!
+![SoftwareLibre](http://www.flisol.info/FLISOL2015?action=AttachFile&do=get&target=QueEsSoftwareLibre.png)
+![SoftwareLibre](http://www.flisol.info/FLISOL2015?action=AttachFile&do=get&target=CodigoLibreComunidad.png)
