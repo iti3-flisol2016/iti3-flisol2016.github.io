@@ -6,7 +6,7 @@ title: Ponentes
 ## Ponentes del Evento
 
 ### I.S.C. Janeli Astorga Villela
-###"Software Libre en el Mundo Actual"
+### "Software Libre en el Mundo Actual"
 
 Lorem ipsum dolor sit amet, consecteteur adipiscing elit duis. Vestibulum laoreet sem hymenaeos potenti, curae. Tortor, urna id porta erat. Per class vitae. Viverra quisque hymenaeos at cras viverra ipsum adipiscing cubilia eget quis, nunc vel. Nulla elementum platea tellus. Per et. Pede, nibh magna integer mauris, nisl ante laoreet. Neque ligula consequat nam, consectetuer auctor morbi id pellentesque lacinia, massa ve a. Dictumst nisl sagittis a, lobortis quis mattis commodo id, curae. Arcu fusce phasellus est habitant posuere, massa eu magnis amet. Tristique pharetra dictum diam pellentesque in potenti cras, eu arcu netus. Nisl urna eget vehicula sollicitudin, ligula. Nisi non integer tellus ornare magna potenti cras in urna ad urna placerat sit, dolor blandit ad eu orci. Taciti pulvinar venenatis. Hac lorem iaculis nullam felis lacus felis eros, ante. Potenti conubia tellus felis cursus at. Odio feugiat. Tellus netus luctus potenti eu consequat eros, vivamus lacus non. Penatibus dictumst varius aptent cum primis, congue leo. Risus quis scelerisque dui aptent urna.
 
