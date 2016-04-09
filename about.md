@@ -2,10 +2,9 @@
 layout: page
 title: Acerca del Evento
 ---
-## About
-Emerald es a minimal theme created for Jekyll. The main purpose of Emerald is to provide a clear tema para those who want a blog ready to use, focused on the content and mobile-first.
+## A cerca del FLISoL
+El FLISoL es el evento de difusión de [Software Libre](http://es.wikipedia.org/wiki/Software_libre)) más grande en Latinoamérica y está dirigido a todo tipo de público: estudiantes, académicos, empresarios, trabajadores, funcionarios públicos, entusiastas y aun personas que no poseen mucho conocimiento informático.. 
 
-For further details on Emerald, please visit the [repository on Github](https://github.com/KingFelix/emerald/).
 
 ![Emerald](img/Emerald01.png "Emerald")
 
